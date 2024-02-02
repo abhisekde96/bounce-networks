@@ -11,7 +11,7 @@
 #define BALL_SPEED_Y 1 // Vertical speed of the ball
 #define NUM_BALLS 4 // Number of balls
 #define COLLISION_DISTANCE 0.1 // Distance threshold for collision detection
-#define MIN_JOIN_DISTANCE 17.5 // Minimum distance threshold for joining balls
+#define MIN_JOIN_DISTANCE 15 // Minimum distance threshold for joining balls
 #define SPEED_INCREASE_FACTOR 1.0005 // Factor to increase ball speed when a line is drawn
 
 // Define container dimensions
